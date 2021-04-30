@@ -478,6 +478,10 @@
  header .intro-text .name {
      font-size: 2.25em;
  }
+
+ em{
+     font-size: medium;
+ }
  
  @media (max-width: 991px) {
      .navbar-header {
